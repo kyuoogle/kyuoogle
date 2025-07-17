@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=YoungKyu%20Kim&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=kyuoogle&descSize=25&descAlign=85&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungKyu%20Kim&fontSize=90&fontAlign=62&fontAlignY=32&desc=kyuoogle&descSize=25&descAlign=85&descAlignY=50)
 
 <p>Hi There! I'm a backEnd developer.</p>
 <p>Basketball⛹️‍♂️,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎮LeagueOfLegends</p>
