@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungKyu%20Kim&fontSize=90&fontAlign=62&fontAlignY=32&desc=kyuoogle&descSize=25&descAlign=85&descAlignY=50)
 
 <p>Hi There! I'm a BackEnd developer.</p>
-<p>Basketball⛹️‍♂️,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎮LeagueOfLegends</p>
+<p>Basketball⛹️‍♂️,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎮LeagueOfLegends(LOL)</p>
 <p> My main skills are Java, Spring, SQL, Python and Django</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
