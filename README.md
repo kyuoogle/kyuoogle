@@ -4,7 +4,7 @@
 
 <p>Hi There! I'm a BackEnd developer.</p>
 <p>Basketball⛹️‍♂️,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎮LeagueOfLegends(LOL)</p>
-<p> My main skills are Java, Spring, SQL, Python and Django</p>
+<p> My main skills are Java, Spring, MySQL, Python and Django</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
