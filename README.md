@@ -47,9 +47,8 @@
 
 <br>
 
-<h3 align="center">👨‍💻BaekJoon👨‍💻</h3>
-<p align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodboy19990)](https://solved.ac/goodboy19990/)
-</p>
+### 👨‍💻BaekJoon👨‍💻
+
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodboy19990)](https://solved.ac/goodboy19990)</p>
 
 </div>
