@@ -45,10 +45,15 @@
 
 ---
 
-<br>
+
+### 🛠️Git🛠️
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuoogle&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuoogle&layout=compact&theme=tokyonight)
+
 
 ### 👨‍💻BaekJoon👨‍💻
 
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodboy19990)](https://solved.ac/goodboy19990)</p>
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodboy19990)](https://solved.ac/goodboy19990)
 
 </div>
