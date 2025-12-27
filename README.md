@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>&nbsp
