@@ -53,7 +53,7 @@ Backend Developer focused on **Java & Spring**
 ---
 
 ## 📈 GitHub Activity
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kyuoogle&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kyuoogle&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{kyuoogle}"/>
