@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 👋 Hi, I'm YoungKyu Kim
+# 👋 안녕하세요, 김영규입니다. 👋
 Backend Developer focused on **Java & Spring**
 
 🏀 Basketball | 🖥 Youtube | 💻 Programming | 🎮 League of Legends
@@ -14,6 +14,13 @@ Backend Developer focused on **Java & Spring**
 </p>
 
 </div>
+
+## Education
+- 한국외국어대학교 독일어과/AI융합전공(Software&AI) 2018.03 ~ 2025.08
+- 삼성 청년 SW·AI 아카데미(SSAFY) 14기 2025.07 ~
+  - 1학기 관통 프로젝트 우수상 수상 : 이미지 기반 퀴즈 플랫폼 **[ProblemIO](https://github.com/kyuoogle/ProblemIO)**
+  - 2학기 공통 프로젝트 최우수상 수상 : WebRTC AI 판사 마피아게임 **[A601호](https://github.com/kyuoogle/A-601)**
+  - FIX 프로토콜 기반 모의 주식 거래 시뮬레이터 **[FIXYZ](https://github.com/DoYouLikeFIx/FIXYZ-BE)**
 
 ---
 
