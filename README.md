@@ -20,7 +20,7 @@ Backend Developer focused on **Java & Spring**
 - 삼성 청년 SW·AI 아카데미(SSAFY) 14기 2025.07 ~ 2026.06
   - 1학기 관통 프로젝트 우수상 수상: 이미지 기반 퀴즈 플랫폼 **[ProblemIO](https://github.com/kyuoogle/ProblemIO)**
   - 2학기 공통 프로젝트 최우수상 수상: WebRTC AI 판사 마피아게임 **[A601호](https://github.com/kyuoogle/A-601)**
-  - FIX 프로토콜 기반 모의 주식 거래 시뮬레이터 **[FIXYZ](https://github.com/DoYouLikeFIx/FIXYZ-BE)**
+  - FIX 프로토콜 기반 모의 주식 거래 시뮬레이터 **[FIXYZ](https://github.com/DoYouLikeFIx/FIXYZ)**
   - 기업 '땡스카본'과의 연계 프로젝트: 농업 탄소감축 활동 수집·검증 및 운영 관리 플랫폼 **A³ ASKER**
 ---
 
